@@ -7,7 +7,7 @@ Spring 2026. The projects are built on Bloomberg data in Excel and Python.
 |---|---|---|
 | [Individual Project: MBS Valuation](Individual-Project-MBS-Valuation/) | Monte Carlo valuation of a Fannie Mae pass-through (FN FS9548) as an agency and as a private-label MBS | Treasury-calibrated short-rate paths, PSA prepayments with a refinancing overlay, OAS, effective duration, expected cash-flow credit adjustment. Reproducible Jupyter notebooks plus an Excel walk-through. |
 | [Group Project 1: TIPS–Treasury Puzzle](Group-Project-1-Term-Structure-and-TIPS/) | Replicating a nominal Treasury with TIPS, inflation swaps and STRIPS (Fleckenstein, Longstaff & Lustig, 2014) | Table II replication with March 2026 data. TIPS were rich by about $0.97 per $100. |
-| [Group Project 2: Credit Risk](Group-Project-2-Credit-Risk/) | Default intensities for a distressed Xerox 4.8% 2035 bond from bond yields, CDS and a Merton model | Calibrated hazard rates, a CDS pricing model, and a simultaneous Merton solve |
+| [Group Project 2: Credit Risk](Group-Project-2-Credit-Risk/) | Default intensities for a distressed Xerox 4.8% 2035 bond from bond yields, CDS and a Merton model, and reduced-form pricing | Calibrated hazard rates, a CDS pricing model, a simultaneous Merton solve, and rating-class spread regression |
 | [Return of the Loan Case Study](Return-of-Loan-Case-Study/) | Direct commercial mortgage lending vs. a subordinated CMBS D-bond | Scenario-weighted cash flows, required-return build-up and break-even price |
 
 Each folder has its own README covering the question, the method, the results, and how to reproduce
